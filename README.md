@@ -1,36 +1,36 @@
-## PROJECTS
+## 💻 PROJECTS
 
 <a href="https://vlaxcs.github.io/QR-Code-Generator-Scanner/">
-  QR Code Generator & Scanner [Encoder/Decoder]
+  QR Code Generator & Scanner [Encoder/Decoder] 
 </a>
 
 #### Summary
 * Understood QR code structure and the importance of error correction for data recovery.
-* Designed Reed-Solomon encoding and decoding using GF(256) polynomials for efficient error correction.
+* Designed Reed-Solomon encoding and decoding using GF(256) polynomials for efficient error correction. 
 * Developed a UI/UX friendly web application.
 
-<strong>Back-End:</strong> C# | <strong>Front-End:</strong> HTML, CSS, JavaScript</p>
+<strong>Back-End:</strong> C# | <strong>Front-End:</strong> HTML, CSS, JavaScript
 <i>Note: Occasionally, the API may be temporarily unavailable.</i>
 
-## RECENTLY CONTRIBUTED TO
+## 🧩 RECENTLY CONTRIBUTED TO
 
 <a href="https://github.com/as-mi/site-cariere-nou">
-  Cariere v14 Web Application
+  Cariere v14 Web Application 🚀
   <p><i>Full-Stack Development @ ASMI</i></p>
 </a>
 
 <a href="https://gitlab.com/users/nitronlp/project">
-  NitroNLP Competition Platform
+  NitroNLP Competition Platform 🏆
   <p><i>Front-End Development @ NitroNLP</i></p>
 </a>
 
 <a href="../../../FMI-INFO-S15-2024-2027">
-  Olympics' Class Materials
+  Olympics' Class Materials 📚
   <p><i>Computer Science Bachelor ~ Year I @ FMI.UNIBUC.RO</i></p>
 </a>
 
 <div align="left">
-  <h2>ENERGIZED BY</h2>
+  <h2>⚡ ENERGIZED BY</h2>
 </div>
 
 <div align="left">
@@ -77,6 +77,6 @@
 </div>
 
 <div align="left">
-  <h2>CURRENT FOCUS</h2>
+  <h2>🔍CURRENT FOCUS</h2>
   <p>Rust, GSoC</p>
 </div>
