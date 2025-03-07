@@ -1,6 +1,38 @@
+## PROJECTS
+
+<a href="https://vlaxcs.github.io/QR-Code-Generator-Scanner/">
+  QR Code Generator & Scanner [Encoder/Decoder]
+</a>
+
+#### Summary
+* Understood QR code structure and the importance of error correction for data recovery.
+* Designed Reed-Solomon encoding and decoding using GF(256) polynomials for efficient error correction.
+* Developed a UI/UX friendly web application.
+
+<strong>Back-End:</strong> C# | <strong>Front-End:</strong> HTML, CSS, JavaScript</p>
+<i>Note: Occasionally, the API may be temporarily unavailable.</i>
+
+## RECENTLY CONTRIBUTED TO
+
+<a href="https://github.com/as-mi/site-cariere-nou">
+  Cariere v14 Web Application
+  <p><i>Full-Stack Development @ ASMI</i></p>
+</a>
+
+<a href="https://gitlab.com/users/nitronlp/project">
+  NitroNLP Competition Platform
+  <p><i>Front-End Development @ NitroNLP</i></p>
+</a>
+
+<a href="../../../FMI-INFO-S15-2024-2027">
+  Olympics' Class Materials
+  <p><i>Computer Science Bachelor ~ Year I @ FMI.UNIBUC.RO</i></p>
+</a>
+
 <div align="left">
   <h2>ENERGIZED BY</h2>
 </div>
+
 <div align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="20" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="20" />
@@ -42,4 +74,9 @@
 <div align="left">
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" height="20" />
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" height="20" />
+</div>
+
+<div align="left">
+  <h2>CURRENT FOCUS</h2>
+  <p>Rust, GSoC</p>
 </div>
