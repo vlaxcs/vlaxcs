@@ -2,9 +2,6 @@
 
 #### [QR Code Generator & Scanner [Encoder/Decoder]](https://vlaxcs.github.io/QR-Code-Generator-Scanner/)
 
-<strong>Back-End:</strong> C# | <strong>Front-End:</strong> HTML, CSS, JavaScript 
-(<i>Note: The API may be temporarily unavailable.</i>)
-
 ## 🚀 RECENTLY CONTRIBUTED TO
 
 <a href="https://github.com/as-mi/site-cariere-nou">
