@@ -5,10 +5,6 @@
 </a>
 
 #### Summary
-* Understood QR code structure and the importance of error correction for data recovery.
-* Designed Reed-Solomon encoding and decoding using GF(256) polynomials for efficient error correction. 
-* Developed a UI/UX friendly web application.
-
 <strong>Back-End:</strong> C# | <strong>Front-End:</strong> HTML, CSS, JavaScript 
 (<i>Note: The API may be temporarily unavailable.</i>)
 
