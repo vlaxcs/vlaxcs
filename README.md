@@ -1,10 +1,9 @@
 ## 💻 PROJECTS
 
-<a href="https://vlaxcs.github.io/QR-Code-Generator-Scanner/">
+#### <a href="https://vlaxcs.github.io/QR-Code-Generator-Scanner/">
   QR Code Generator & Scanner [Encoder/Decoder] 
 </a>
 
-#### Summary
 <strong>Back-End:</strong> C# | <strong>Front-End:</strong> HTML, CSS, JavaScript 
 (<i>Note: The API may be temporarily unavailable.</i>)
 
