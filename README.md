@@ -2,6 +2,15 @@
 
 #### [QR Code Generator & Scanner [Encoder/Decoder]](https://vlaxcs.github.io/QR-Code-Generator-Scanner/)
 
+## 👨‍🎓​ COOL UNI PROJECTS
+
+#### [Sorting Algorithm Analyzer - FULL README SOON](https://github.com/vlaxcs/DS-Sorts)
+#### [DFA & NFA - README SOON](https://github.com/vlaxcs/DFA-NFA)
+#### [Stardew Valley - Presentation Website](https://github.com/vlaxcs/Stardew-Valley-Presentation-Website)
+#### [Storage system simulation - README SOON](https://github.com/vlaxcs/FMI-1LINFO-ASC-Proiect)
+#### [Non-recursive LazyWGET - README SOON](https://github.com/vlaxcs/LazyWGET)
+
+
 ## 🚀 RECENTLY CONTRIBUTED TO
 
 <a href="https://github.com/as-mi/site-cariere-nou">
