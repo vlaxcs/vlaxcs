@@ -13,14 +13,16 @@
 
 ## 🚀 RECENTLY CONTRIBUTED TO
 
+<a href="https://github.com/as-mi/site-asmi-nou">
+  ASMI Website - <i>Full-Stack Development @ ASMI</i>
+</a>
+
 <a href="https://github.com/as-mi/site-cariere-nou">
-  Cariere v14 Web Application
-  <p><i>Full-Stack Development @ ASMI</i></p>
+  Cariere v14 Web Application - <i>Full-Stack Development @ ASMI</i>
 </a>
 
 <a href="https://gitlab.com/users/nitronlp/project">
-  NitroNLP Competition Platform
-  <p><i>Front-End Development @ NitroNLP</i></p>
+  NitroNLP Competition Platform | <i>Front-End Development @ NitroNLP</i>
 </a>
 
 <a href="../../../FMI-INFO-S15-2024-2027">
