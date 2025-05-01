@@ -1,14 +1,14 @@
 ## 💻 PROJECTS
 
-#### [QR Code Generator & Scanner [Encoder/Decoder]](https://vlaxcs.github.io/QR-Code-Generator-Scanner/)
+#### [QR Code Generator & Scanner [Encoder/Decoder]](https://vlaxcs.github.io/QR-Code-Generator-Scanner/) | C# / HTML, CSS, JS
 
 ## 👨‍🎓​ COOL UNI PROJECTS
 
-#### [Sorting Algorithm Analyzer - FULL README SOON](https://github.com/vlaxcs/DS-Sorts)
-#### [DFA & NFA - README SOON](https://github.com/vlaxcs/DFA-NFA)
-#### [Stardew Valley - Presentation Website](https://github.com/vlaxcs/Stardew-Valley-Presentation-Website)
-#### [Storage system simulation - README SOON](https://github.com/vlaxcs/FMI-1LINFO-ASC-Proiect)
-#### [Non-recursive LazyWGET - README SOON](https://github.com/vlaxcs/LazyWGET)
+#### [Sorting Algorithm Analyzer - FULL README SOON](https://github.com/vlaxcs/DS-Sorts) | Data Structures - C++ with OOP
+#### [DFA & NFA - README SOON](https://github.com/vlaxcs/DFA-NFA) | Formal Languages and Automata - C++ with OOP
+#### [Stardew Valley - Presentation Website](https://github.com/vlaxcs/Stardew-Valley-Presentation-Website) | Web Technologies - HTML, CSS, JS
+#### [Storage system simulation - README SOON](https://github.com/vlaxcs/FMI-1LINFO-ASC-Proiect) | Computer Architecture - Assembly x86 AT&T
+#### [Non-recursive LazyWGET - README SOON](https://github.com/vlaxcs/LazyWGET) | Basics in Informatics - Shell
 
 
 ## 🚀 CONTRIBUTED TO
