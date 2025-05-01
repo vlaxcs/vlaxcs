@@ -11,7 +11,7 @@
 #### [Non-recursive LazyWGET - README SOON](https://github.com/vlaxcs/LazyWGET)
 
 
-## 🚀 RECENTLY CONTRIBUTED TO
+## 🚀 CONTRIBUTED TO
 
 <a href="https://github.com/as-mi/site-asmi-nou">
   ASMI Website - <i>Full-Stack Development @ ASMI</i>
