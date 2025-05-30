@@ -1,12 +1,14 @@
 ## 💻 PROJECTS
 
-#### [QR Code Generator & Scanner [Encoder/Decoder]](https://vlaxcs.github.io/QR-Code-Generator-Scanner/) | C# / HTML, CSS, JS
+#### [QR Code Generator & Scanner [Encoder/Decoder]](https://vlaxcs.github.io/QR-Code-Generator-Scanner/) | BE: C# / FE: Pure HTML + CSS +JS
+#### [PC Builder - In progress (no doc)](https://github.com/vlaxcs/PC-Builder) | BE: C++ OOP / FE: React.JS + TypeScript
 
 ## 👨‍🎓​ COOL UNI PROJECTS
 
-#### [Sorting Algorithm Analyzer - (no doc)](https://github.com/vlaxcs/DS-Sorts) | Data Structures - C++ with OOP
-#### [REGEx Engine](https://github.com/vlaxcs/REGExLFA) | Formal Languages and Automata Theory - C++ with OOP
-#### [DFA & NFA (no doc)](https://github.com/vlaxcs/DFA-NFA) | Formal Languages and Automata Theory - C++ with OOP
+#### [Data Structurs Analyser (no doc)](https://github.com/vlaxcs/DS-Structures-Analyser) | Data Structures - C++ OOP, Python
+#### [Sorting Algorithms Analyser - (no EN documentation)](https://github.com/vlaxcs/DS-Sorts-Analyser) | Data Structures - C++ OOP, Python
+#### [REGEx Engine](https://github.com/vlaxcs/REGExLFA) | Formal Languages and Automata Theory - C++ OOP
+#### [DFA & NFA (no doc)](https://github.com/vlaxcs/DFA-NFA) | Formal Languages and Automata Theory - C++ OOP
 #### [Stardew Valley - Presentation Website](https://github.com/vlaxcs/Stardew-Valley-Presentation-Website) | Web Technologies - HTML, CSS, JS
 #### [Storage Manager - (no doc)](https://github.com/vlaxcs/FMI-1LINFO-ASC-Proiect) | Computer Architecture - Assembly x86 AT&T
 #### [Non-recursive LazyWGET - (no doc)](https://github.com/vlaxcs/LazyWGET) | Basics in Informatics - Shell
