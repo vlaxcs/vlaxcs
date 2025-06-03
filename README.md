@@ -5,13 +5,16 @@
 
 ## 👨‍🎓​ COOL UNI PROJECTS
 
+#### [CFG Engine (no doc)](https://github.com/vlaxcs/CFG-Engine) | Formal Languages and Automata Theory - C++ OOP
 #### [Data Structurs Analyser (no doc)](https://github.com/vlaxcs/DS-Structures-Analyser) | Data Structures - C++ OOP, Python
-#### [Sorting Algorithms Analyser - (no EN documentation)](https://github.com/vlaxcs/DS-Sorts-Analyser) | Data Structures - C++ OOP, Python
+#### [Sorting Algorithms Analyser - (no EN doc)](https://github.com/vlaxcs/DS-Sorts-Analyser) | Data Structures - C++ OOP, Python
 #### [REGEx Engine](https://github.com/vlaxcs/REGExLFA) | Formal Languages and Automata Theory - C++ OOP
 #### [DFA & NFA (no doc)](https://github.com/vlaxcs/DFA-NFA) | Formal Languages and Automata Theory - C++ OOP
 #### [Stardew Valley - Presentation Website](https://github.com/vlaxcs/Stardew-Valley-Presentation-Website) | Web Technologies - HTML, CSS, JS
 #### [Storage Manager - (no doc)](https://github.com/vlaxcs/FMI-1LINFO-ASC-Proiect) | Computer Architecture - Assembly x86 AT&T
 #### [Non-recursive LazyWGET - (no doc)](https://github.com/vlaxcs/LazyWGET) | Basics in Informatics - Shell
+
+<sup>I will write documentations soon, feel free to blindly explore the projects :)</sup>
 
 
 ## 🚀 CONTRIBUTED TO
