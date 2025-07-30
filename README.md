@@ -1,6 +1,6 @@
 ## 💻 PROJECTS
 
-> #### [CSV Object Parser C++ Library] | First world-wide C++ standardized CSV to Object library
+#### [CSV Object Parser C++ Library](https://github.com/vlaxcs/CSV-Object-Parser-CPP) | *First world-wide C++ standardized CSV to Object library*
 > #### [QR Code Generator & Scanner [Encoder/Decoder]](https://vlaxcs.github.io/QR-Code-Generator-Scanner/) | BE: C# / FE: Pure HTML + CSS + JS
 > #### [PC Builder - In progress (no doc)](https://github.com/vlaxcs/PC-Builder) | BE: C++ OOP / FE: React.JS + TypeScript
 
