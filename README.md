@@ -1,7 +1,7 @@
 ## 💻 PROJECTS
 
 #### [CSV Object Parser C++ Library](https://github.com/vlaxcs/CSV-Object-Parser-CPP) | *First world-wide C++ standardized CSV to Object library*
-#### [Pancake's QR Code Generator & Scanner](https://github.com/vlaxcs/QR-Code-Generator-Scanner/) | *Experimental step-by-step QR Code Generator & Scanner, involving Reed-Solomon principles*
+#### [Pancake's QR Code Generator & Scanner](https://github.com/vlaxcs/QR-Code-Generator-Scanner/) | *Experimental step-by-step QR Code Generator & Scanner, involving Reed-Solomon algorithm over Galois Field (GF-256)*
 > #### [PC Builder - In progress (no doc)](https://github.com/vlaxcs/PC-Builder) | BE: C++ OOP / FE: React.JS + TypeScript
 
 ## 👨‍🎓​ COOL UNI PROJECTS
