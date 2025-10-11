@@ -17,26 +17,6 @@
 
 <sup>Documentation up soon >> feel free to blindly explore the projects :)</sup>
 
-
-## 🚀 CONTRIBUTED TO
-
-<a href="https://github.com/as-mi/site-asmi-nou">
-  ASMI Website - <i>Full-Stack Development @ ASMI</i>
-</a>
-<br><br>
-<a href="https://github.com/as-mi/site-cariere-nou">
-  Cariere v14 Web Application - <i>Full-Stack Development @ ASMI</i>
-</a>
-<br><br>
-<a href="https://gitlab.com/users/nitronlp/project">
-  NitroNLP Competition Platform | <i>Front-End Development @ NitroNLP</i>
-</a>
-<br><br>
-<a href="../../../FMI-INFO-S15-2024-2027">
-  Olympics' Class Materials
-  <p><i>Computer Science Bachelor ~ Year I @ FMI.UNIBUC.RO</i></p>
-</a>
-
 <div align="left">
   <h2>⚡ FUEL </h2>
 </div>
