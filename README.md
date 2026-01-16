@@ -6,6 +6,7 @@
 
 ## 👨‍🎓​ COOL UNI PROJECTS
 
+> #### [SchedSim (no doc)](https://github.com/stefanbusoi/SchedSim) | Scheduling Simulator for OS Processes | Operating Systems - C++ OOP
 > #### [CFG Engine (no doc)](https://github.com/vlaxcs/CFG-Engine) | Formal Languages and Automata Theory - C++ OOP
 > #### [REGEx Engine](https://github.com/vlaxcs/REGExLFA) | Formal Languages and Automata Theory - C++ OOP
 > #### [DFA & NFA (no doc)](https://github.com/vlaxcs/DFA-NFA) | Formal Languages and Automata Theory - C++ OOP
